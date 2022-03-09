@@ -1,0 +1,47 @@
+hr {
+    margin: 0;
+}
+
+.content {
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    margin-bottom: 8.2rem;
+}
+
+.fa {
+    padding: 4px;
+    font-size: 40px;
+}
+
+.button {
+    color: white;
+    border-radius: 50px;
+    background-color: #3c87fa;
+    display: inline-flex;
+    width: 400px;
+}
+
+.button h4 {
+    margin: 0 auto;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 13px;
+}
+
+.fa {
+    margin-left: 6px;
+}
+
+.para-1 {
+    color: #d6a988;
+}
+
+#text {
+    display: inline-flex;
+}
+
+#text .fa {
+    margin-top: 16px;
+    font-size: 20px;
+    margin-right: 0;
+}
